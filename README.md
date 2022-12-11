@@ -28,7 +28,7 @@ Make sure you have Node.js and npm installed.
 
 1. Clone or Download the repository
 
-	`$ git clone https://github.com/yashAgarwal41/fBlogger.git`
+	`$ git clone https://github.com/Yash-Khokhar/fashion-blogging-website`
   
     `$ cd fBlogger`
 	
